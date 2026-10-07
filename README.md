@@ -9,7 +9,7 @@ Turning production experience into AI-driven innovation. 🚀
 
 ### 🧠 About Me
 - 🎓 **MS in Computer Science** student at **UMass Amherst**.
-- 💼 Former **Software Engineer at Dell Technologies** (2022–2025).
+- 💼 Former **Software Engineer at Dell Technologies** (2022–2026).
 - 🤖 Focused on **AI/ML** and **Large Scale Data Systems**.
 
 ---
@@ -32,7 +32,7 @@ Turning production experience into AI-driven innovation. 🚀
 
 ### 💼 Professional Experience
 
-**Dell Technologies** — Software Quality Engineer I → II (Aug 2022 – 2025)
+**Dell Technologies** — Software Quality Engineer I → II (Aug 2022 – 2026)
 
 - Strengthened product reliability and quality by designing comprehensive test strategies across functional, regression, scalability, and integration scenarios, achieving 80-90% test coverage per feature while maintaining quality alignment to sprint and release goals.
 - Developed and optimized end-to-end automation suites (Java-Selenium for GUI, Cypress/ TypeScript with Gherkin for BDD) across multiple testing layers including API security testing, GUI flow testing, and UI plugin E2E testing, contributing 40% new code to the existing test
